@@ -1,0 +1,51 @@
+@import url("https://fonts.googleapis.com/css2?family=Figtree:wght@600;800&display=swap");
+
+body {
+  font-family: "Figtree", sans-serif;
+  font-weight: 600;
+  background-color: hsl(47, 88%, 63%);
+  margin: 0;
+}
+
+/* Main Container */
+.blog-card {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    max-width: 50%;
+    border: 10px solid black;
+    border-radius: 10px;
+    background-color: #fff;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* Footer */
+.footer {
+    position: fixed;
+    width: 100%;
+    bottom: 0;
+    text-align: center;
+  }
+  
